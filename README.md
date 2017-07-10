@@ -5,6 +5,8 @@ Estándares de codificación ayudan a evitar errores comunes de codificación, m
 Siguiendo las normas significa cualquier persona será capaz de comprender una sección de código y modificarlo, si es necesario, sin tener en cuenta cuando fue escrito o por quién.
 
 
+https://php.net/manual/es/
+
 Standard PHP Library: http://php.net/manual/es/book.spl.php
 
 PHP Framework Interop Group: http://www.php-fig.org/
@@ -14,7 +16,9 @@ PEAR: http://pear.php.net/manual/es/standards.php
 Phabricator: https://secure.phabricator.com/book/phabcontrib/article/php_coding_standards/
 
 
+
 CMS:
+
 WordPress: https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/
 
 Joomla: http://developer.joomla.org/coding-standards.html
@@ -24,25 +28,12 @@ Drupal: http://drupal.org/coding-standards
 
 Frameworks:
 
-Zend: http://framework.zend.com/manual/1.12/en/coding-standard.html
-
-FuelPHP: http://fuelphp.com/docs/general/coding_standards.html
-
-Flow: http://flowframework.readthedocs.org/en/latest/TheDefinitiveGuide/PartV/CodingGuideLines/PHP.html
+Zend: http://framework.zend.com/manual/en/coding-standard.html
 
 Symfony: http://symfony.com/doc/master/contributing/code/standards.html
 http://trac.symfony-project.org/wiki/HowToContributeToSymfony#CodingStandards
 
 CakePHP: http://book.cakephp.org/3.0/en/intro/conventions.html
-
-Zend: http://framework.zend.com/manual/en/coding-standard.html
-
-CakePHP: http://book.cakephp.org/2.0/en/contributing/cakephp-coding-conventions.html
-
-
-Libs:
-
-https://nette.org/en/coding-standard
 
 
 Tips:
@@ -62,13 +53,21 @@ http://hungred.com/useful-information/php-micro-optimization-tips/
 http://www.phpdeveloper.org.uk/articles/php-coding-guidelines/
 
 
+Agregadores de noticias y blogs:
 
-FIG Survey Data:
+http://www.phpdeveloper.org/
 
-https://github.com/ezsystems/ezp-next/wiki/codingstandards
+http://www.planet-php.net/
 
-https://github.com/UnionOfRAD/lithium/wiki/Spec%3A-Coding
+Podcasts sobre PHP: https://www.phppodcasts.com/
 
-https://github.com/propelorm/Propel2/wiki/Coding-Standards
+Practical PHP programming, de Paul Hudson (2009) - http://www.hackingwithphp.com/
 
-https://docs.google.com/a/zikula.org/document/edit?authkey=CPCU0Us&hgd=1&id=1fcqb93Sn-hR9c0mkN6m_tyWnmEvoswKBtSc0tKkZmJA
+PHP The right way: http://www.phptherightway.com/
+
+
+Críticas a PHP
+
+PHP Sadness (2017-01-05): http://phpsadness.com/
+
+PHP: a fractal of bad design (abril 2012): https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/

@@ -5,25 +5,11 @@ Estándares de codificación ayudan a evitar errores comunes de codificación, m
 Siguiendo las normas significa cualquier persona será capaz de comprender una sección de código y modificarlo, si es necesario, sin tener en cuenta cuando fue escrito o por quién.
 
 
-https://php.net/manual/es/
-
 Standard PHP Library: http://php.net/manual/es/book.spl.php
 
 PHP Framework Interop Group: http://www.php-fig.org/
 
-PEAR: http://pear.php.net/manual/es/standards.php
-
 Phabricator: https://secure.phabricator.com/book/phabcontrib/article/php_coding_standards/
-
-
-
-CMS:
-
-WordPress: https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/
-
-Joomla: http://developer.joomla.org/coding-standards.html
-
-Drupal: http://drupal.org/coding-standards
 
 
 Frameworks:
@@ -31,7 +17,6 @@ Frameworks:
 Zend: http://framework.zend.com/manual/en/coding-standard.html
 
 Symfony: http://symfony.com/doc/master/contributing/code/standards.html
-http://trac.symfony-project.org/wiki/HowToContributeToSymfony#CodingStandards
 
 CakePHP: http://book.cakephp.org/3.0/en/intro/conventions.html
 
@@ -40,9 +25,10 @@ Tips:
 
 http://phpdevenezuela.github.io/php-the-right-way/#buenas-practicas
 
-http://jason.pureconcepts.net/2012/11/php-coding-standards/
+https://phpbestpractices.org/
 
 http://www.thegeekstuff.com/2014/04/optimize-php-code/
+
 
 http://www.mdproductions.ca/guides/50-best-practices-to-optimize-php-code-performance
 
@@ -51,6 +37,13 @@ http://www.bigeng.io/php-memory-optimization/
 http://hungred.com/useful-information/php-micro-optimization-tips/
 
 http://www.phpdeveloper.org.uk/articles/php-coding-guidelines/
+
+
+PHP VS NodeJS:
+
+https://medium.com/fuzz/php-a0d0b1d365d8
+
+http://www.infoworld.com/article/3166109/application-development/php-vs-nodejs-an-epic-battle-for-developer-mind-share.html
 
 
 Agregadores de noticias y blogs:

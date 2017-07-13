@@ -9,6 +9,10 @@ Standard PHP Library: http://php.net/manual/es/book.spl.php
 
 PHP Framework Interop Group: http://www.php-fig.org/
 
+Semantic Versioning Specification: http://semver.org/
+
+PHP Package Development Standards: http://php-pds.com/
+
 Phabricator: https://secure.phabricator.com/book/phabcontrib/article/php_coding_standards/
 
 

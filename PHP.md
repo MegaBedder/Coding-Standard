@@ -7,7 +7,7 @@ Siguiendo las normas significa cualquier persona será capaz de comprender una s
 
 Standard PHP Library: http://php.net/manual/es/book.spl.php
 
-PHP Framework Interop Group: http://www.php-fig.org/
+PHP Standards Recommendations: http://www.php-fig.org/psr/
 
 Semantic Versioning Specification: http://semver.org/
 
@@ -25,14 +25,22 @@ Symfony: http://symfony.com/doc/master/contributing/code/standards.html
 CakePHP: http://book.cakephp.org/3.0/en/intro/conventions.html
 
 
-Tips:
+Keep a changelog: http://keepachangelog.com/
 
-http://phpdevenezuela.github.io/php-the-right-way/#buenas-practicas
+PHP DocBlock: https://www.phpdoc.org/docs/latest/references/phpdoc/basic-syntax.html
+
+Tips:
+The Right Way (English): http://www.phptherightway.com/
+
+The Right Way (Spanish): http://phpdevenezuela.github.io/php-the-right-way/
 
 https://phpbestpractices.org/
 
+Design patterns: https://designpatternsphp.readthedocs.io/en/latest/
+
 http://www.thegeekstuff.com/2014/04/optimize-php-code/
 
+https://thephpleague.com/es/
 
 http://www.mdproductions.ca/guides/50-best-practices-to-optimize-php-code-performance
 

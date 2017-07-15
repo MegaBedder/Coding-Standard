@@ -9,8 +9,6 @@ Standard PHP Library: http://php.net/manual/es/book.spl.php
 
 PHP Standards Recommendations: http://www.php-fig.org/psr/
 
-Semantic Versioning Specification: http://semver.org/
-
 PHP Package Development Standards: http://php-pds.com/
 
 Phabricator: https://secure.phabricator.com/book/phabcontrib/article/php_coding_standards/
@@ -25,18 +23,16 @@ Symfony: http://symfony.com/doc/master/contributing/code/standards.html
 CakePHP: http://book.cakephp.org/3.0/en/intro/conventions.html
 
 
-Keep a changelog: http://keepachangelog.com/
-
-PHP DocBlock: https://www.phpdoc.org/docs/latest/references/phpdoc/basic-syntax.html
-
 Tips:
-The Right Way (English): http://www.phptherightway.com/
+PHP The Right Way (English): http://www.phptherightway.com/
 
-The Right Way (Spanish): http://phpdevenezuela.github.io/php-the-right-way/
+PHP The Right Way (Spanish): http://phpdevenezuela.github.io/php-the-right-way/
 
 https://phpbestpractices.org/
 
 Design patterns: https://designpatternsphp.readthedocs.io/en/latest/
+
+PHP DocBlock: https://www.phpdoc.org/docs/latest/references/phpdoc/basic-syntax.html
 
 http://www.thegeekstuff.com/2014/04/optimize-php-code/
 
@@ -51,13 +47,6 @@ http://hungred.com/useful-information/php-micro-optimization-tips/
 http://www.phpdeveloper.org.uk/articles/php-coding-guidelines/
 
 
-PHP VS NodeJS:
-
-https://medium.com/fuzz/php-a0d0b1d365d8
-
-http://www.infoworld.com/article/3166109/application-development/php-vs-nodejs-an-epic-battle-for-developer-mind-share.html
-
-
 Agregadores de noticias y blogs:
 
 http://www.phpdeveloper.org/
@@ -67,8 +56,6 @@ http://www.planet-php.net/
 Podcasts sobre PHP: https://www.phppodcasts.com/
 
 Practical PHP programming, de Paul Hudson (2009) - http://www.hackingwithphp.com/
-
-PHP The right way: http://www.phptherightway.com/
 
 
 Críticas a PHP
